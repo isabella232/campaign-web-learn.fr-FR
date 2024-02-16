@@ -5,10 +5,10 @@ user-guide-title: Interface utilisateur Web d’Adobe Campaign
 user-guide-description: Découvrez comment utiliser les fonctionnalités de l’interface utilisateur web d’Adobe Campaign.
 breadcrumb-title: Interface utilisateur web - Tutorials
 auto-video-transcripts: true
-source-git-commit: 23c66a47ee511950f7b190b5337ed83497972cde
+source-git-commit: 29188c839c08ca46313c2d9ea1f50bee2083f14b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 16%
+source-wordcount: '79'
+ht-degree: 15%
 
 ---
 
@@ -23,5 +23,6 @@ ht-degree: 16%
    + [Concevoir entièrement le contenu d&#39;un email](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Création et amélioration du contenu des emails à l’aide de l’assistant de contenu](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
 + Profils et audiences {#profiles-and-audiences}
-   + [Explorer les profils](/help/get-started/explore-profiles.md)
+   + [Explorer les profils](/help/profiles-and-audiences/explore-profiles.md)
+   + [Gestion et création d’audiences](/help/profiles-and-audiences/manage-and-build-audiences.md)
 + [Tutoriels de la console cliente Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr)
