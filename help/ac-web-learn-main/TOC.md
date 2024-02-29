@@ -5,10 +5,10 @@ user-guide-title: Interface utilisateur web d’Adobe Campaign
 user-guide-description: Découvrez comment utiliser les fonctionnalités et les capacités de l’interface utilisateur web d’Adobe Campaign.
 breadcrumb-title: Interface utilisateur web – Tutoriels
 auto-video-transcripts: true
-source-git-commit: 29188c839c08ca46313c2d9ea1f50bee2083f14b
+source-git-commit: d8264549fbc342889992378fa51dd0759262ca97
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 94%
+source-wordcount: '90'
+ht-degree: 88%
 
 ---
 
@@ -21,8 +21,12 @@ ht-degree: 94%
 + Messages et diffusions {#messages-and-deliveries}
    + [Créer une diffusion par e-mail](/help/deliveries/create-an-email-delivery.md)
    + [Concevoir entièrement le contenu d’un e-mail](/help/design-the-delivery/create-email-content-from-scratch.md)
+   + [Créer un email en téléchargeant le HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Créer et améliorer le contenu des e-mails à l’aide de l’assistant de contenu](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
 + Profils et audiences {#profiles-and-audiences}
    + [Explorer les profils](/help/profiles-and-audiences/explore-profiles.md)
    + [Gestion et création d’audiences](/help/profiles-and-audiences/manage-and-build-audiences.md)
++ Workflows {#workflows}
+   + [Créer un workflow de ciblage](/help/workflows/create-a-targeting-workflow.md)
 + [Tutoriels sur la console cliente Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr)
+
