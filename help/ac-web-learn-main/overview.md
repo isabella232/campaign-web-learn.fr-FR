@@ -3,8 +3,9 @@ title: Tutoriels de l’interface utilisateur web d’Adobe Campaign
 description: Adobe Campaign offre une plateforme pour concevoir des expériences cross-canal pour les clientes et clients et propose un environnement pour l’orchestration visuelle des campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionnalités et capacités de l’interface utilisateur web d’Adobe Campaign.
 feature: Overview
 role: User, Admin, Developer
+recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
-source-git-commit: 93b8eff49c10418cb3e6fc443e109748cfa1fbd8
+source-git-commit: 10e858e34a40157347f026c8c7a0db1326d872bc
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 63%
