@@ -6,9 +6,9 @@ user-guide-description: Découvrez comment utiliser les fonctionnalités et les 
 breadcrumb-title: Interface utilisateur web – Tutoriels
 auto-video-transcripts: true
 source-git-commit: 42bc130ee440c3967e5361229a4458689076298d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -21,16 +21,16 @@ ht-degree: 64%
 + Messages et diffusions {#messages-and-deliveries}
    + [Créer une diffusion par e-mail](/help/deliveries/create-an-email-delivery.md)
    + [Concevoir entièrement le contenu d’un e-mail](/help/design-the-delivery/create-email-content-from-scratch.md)
-   + [Créer un email en téléchargeant le HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
+   + [Créer un email en chargeant le fichier HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Créer et améliorer le contenu des e-mails à l’aide de l’assistant de contenu](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
-   + [Prévisualiser et BAT d’une diffusion email](/help/deliveries/preview-and-proof-an-email-delivery.md)
+   + [Prévisualiser et tester une diffusion par e-mail](/help/deliveries/preview-and-proof-an-email-delivery.md)
 + Profils et audiences {#profiles-and-audiences}
    + [Explorer les profils](/help/profiles-and-audiences/explore-profiles.md)
-   + [Gestion et création d’audiences](/help/profiles-and-audiences/manage-and-build-audiences.md)
-   + [Créer une audience avec un Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
+   + [Gérer et créer des audiences](/help/profiles-and-audiences/manage-and-build-audiences.md)
+   + [Créer une audience Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
    + [Créer un workflow de ciblage](/help/workflows/create-a-targeting-workflow.md)
-+ Enregistrements en direct Experience League {#exl-live-recordings}
-   + [Amélioration de l’interface utilisateur web d’Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
-+ [Tutoriels de la console cliente Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr){target="_blank"}
++ Enregistrements Experience League Live {#exl-live-recordings}
+   + [Amélioration de la nouvelle interface utilisateur web d’Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=fr){target="_blank"}
++ [Tutoriels sur la console cliente Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr){target="_blank"}
 

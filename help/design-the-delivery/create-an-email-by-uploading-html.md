@@ -1,6 +1,6 @@
 ---
-title: Créer un email en téléchargeant le HTML
-description: Découvrez comment créer un email en téléchargeant un HTML, comment le rendre compatible avec le concepteur d'email et comment le convertir en modèle.
+title: Créer un e-mail en chargeant un fichier HTML
+description: Découvrez comment créer un e-mail en chargeant un fichier HTML, comment le rendre compatible avec le concepteur d’e-mail et comment le convertir en modèle.
 feature: Email Design
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 251
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-14954
 source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Créer un email en téléchargeant le HTML
+# Créer un e-mail en chargeant un fichier HTML
 
-Découvrez comment créer un email en téléchargeant un HTML, comment le rendre compatible avec le concepteur d&#39;email et comment le convertir en modèle.
+Découvrez comment créer un e-mail en chargeant un fichier HTML, comment le rendre compatible avec le concepteur d’e-mail et comment le convertir en modèle.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)

@@ -1,22 +1,22 @@
 ---
 title: Tutoriels de l’interface utilisateur web d’Adobe Campaign
-description: Adobe Campaign offre une plateforme pour concevoir des expériences cross-canal pour les clientes et clients et propose un environnement pour l’orchestration visuelle des campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionnalités et capacités de l’interface utilisateur web d’Adobe Campaign.
+description: Adobe Campaign offre une plateforme permettant de concevoir des expériences cross-canal pour les clientes et clients et propose un environnement pour l’orchestration visuelle des campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal (Cross-channel Execution). Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionnalités et capacités de l’interface utilisateur web d’Adobe Campaign.
 feature: Overview
 role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 source-git-commit: 10e858e34a40157347f026c8c7a0db1326d872bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '271'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # Tutoriels de l’interface utilisateur web d’Adobe Campaign
 
-Adobe Campaign offre une plateforme pour concevoir des expériences cross-canal pour les clientes et clients et propose un environnement pour l’orchestration visuelle des campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les fonctionnalités de l’interface utilisateur web d’Adobe Campaign. De nouvelles vidéos sont ajoutées régulièrement.
+Adobe Campaign offre une plateforme permettant de concevoir des expériences cross-canal pour les clientes et clients et propose un environnement pour l’orchestration visuelle des campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal (Cross-channel Execution). Ce guide d’utilisation contient des vidéos et des tutoriels sur les fonctionnalités et capacités de l’interface utilisateur web d’Adobe Campaign. De nouvelles vidéos sont ajoutées régulièrement.
 
-La personnalisation de la plateforme Campaign en fonction des besoins de l’entreprise et des données, ainsi que la connexion à d’autres systèmes, sont gérées dans la console cliente Campaign. Par conséquent, vous pouvez accéder à certains paramètres et fonctionnalités, les créer ou les gérer uniquement depuis la console cliente Campaign. Voir [Guide Campaign Web et console cliente](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=fr){target="_blank"} pour une vue d’ensemble des paramètres et des fonctionnalités qui s’annoncent.
+La personnalisation de la plateforme Campaign en fonction des besoins de l’entreprise et des données, ainsi que la connexion à d’autres systèmes, sont gérées dans la console cliente Campaign. Par conséquent, vous pouvez accéder à certains paramètres et fonctionnalités, les créer ou les gérer uniquement depuis la console cliente Campaign. Voir le [Guide Campaign Web et console cliente](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=fr){target="_blank"} pour une vue d’ensemble des paramètres et des fonctionnalités qui s’annoncent.
 
 >[!INFO]
 > 
@@ -25,8 +25,8 @@ La personnalisation de la plateforme Campaign en fonction des besoins de l’en
 >
 > Vous ne trouvez pas ce que vous voulez dans ces tutoriels ?
 > Voir
-> * [Tutoriels de la console cliente Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr){target="_blank"} pour plus d’informations sur la console Campaign
-> * [Documentation Web d’Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=fr){target="_blank"} pour plus d’informations sur l’interface utilisateur Web de Campaign.
+> * les [tutoriels de la console cliente d’Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=fr){target="_blank"} pour plus d’informations sur la console Campaign ;
+> * la [documentation web d’Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=fr){target="_blank"} pour plus d’informations sur l’interface utilisateur web de Campaign.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -38,9 +38,9 @@ La personnalisation de la plateforme Campaign en fonction des besoins de l’en
 <div id="staff-picks-section">
 </div>
 
-## Événements en direct des Experience League
+## Événements Experience League Live
 
-* **[Amélioration de l’interface utilisateur web d’Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}**
+* **[Amélioration de la nouvelle interface utilisateur web d’Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=fr){target="_blank"}**
 
-  *Découvrez comment planifier, lancer et mesurer des campagnes cross-canal dans la nouvelle expérience utilisateur.*
+  *Découvrez comment planifier, lancer et mesurer des campagnes cross-canal dans la nouvelle expérience client.*
 
